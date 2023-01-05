@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DSP Chathuranga</h1>
-<h3 align="center">JAVA/J2EE Senior Application Developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dspchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="dspchathuranga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python / Machine learning / Data Analysis**
+- 🌱 I’m currently Implementing fully automated Green-House project using ***Arduino, AWS IOT, AWS Amplify with React**
 
 - 💬 Ask me about **Spring Boot**
 
