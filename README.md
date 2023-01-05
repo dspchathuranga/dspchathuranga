@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Implementing fully automated Green-House project using ***Arduino, AWS IOT, AWS Amplify with React**
+- 🌱 I’m currently Implementing fully automated Green-House project using **Arduino, AWS IOT, AWS Amplify with React**
 
 - 💬 Ask me about **Spring Boot**
 
